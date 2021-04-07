@@ -1,0 +1,23 @@
+.container {
+    background-color: greenyellow;
+    text-align: center;
+    line-height: 2;
+    height: 20rem;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.card-left {
+    margin-right: 4rem;
+}
+
+.card-right img {
+    padding-top: 10px;
+    margin-top: 10px;
+    height: 210px;
+    width: 300px;
+}
